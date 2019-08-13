@@ -2,6 +2,8 @@
 
 兴趣使然写的canvas小玩意<br>
 
+> 本项目中的 demo 均为自己的学习 Canvas 之作，部分创意非原创。
+
 ## 安装依赖
 ```
 npm install
@@ -20,14 +22,16 @@ npm run build
 ```
 
 ## 在线效果列表
+
 > 建议用`chrome`查看
 
 [placeholder]:p
 
 | 标题 |  |
-| :-------- | :--------:|
-| [橡皮擦效果](http://whxaxes.github.io/canvas-test/src/Funny-demo/clip/clip.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/clip) |
+|:-------- |:--------:|
+| [线条时钟](http://whxaxes.github.io/canvas-test/src/Funny-demo/coolClock/index2.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/coolClock) |
 | [粒子时钟](http://whxaxes.github.io/canvas-test/src/Funny-demo/coolClock/index.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/coolClock) |
+| [橡皮擦效果](http://whxaxes.github.io/canvas-test/src/Funny-demo/clip/clip.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/clip) |
 | [LOW POLY（图片三角化）](http://whxaxes.github.io/canvas-test/src/Funny-demo/lowpoly/index.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/lowpoly) |
 | [可视化音乐播放器](http://whxaxes.github.io/canvas-test/src/Funny-demo/musicPlayer/index.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/musicPlayer) |
 | [放烟花模拟](http://whxaxes.github.io/canvas-test/src/Funny-demo/shotFire/shotFire.html) | [查看代码](https://github.com/whxaxes/canvas-test/tree/master/src/Funny-demo/shotFire) |
@@ -64,3 +68,5 @@ whxaxes
 
 ## LICENSE
 MIT
+
+
